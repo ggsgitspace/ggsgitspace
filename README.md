@@ -2,7 +2,7 @@
   <code><ins>hey there I'm gg</ins></code>
 </p>
 
-<img src="https://co.pinterest.com/pin/144678206772613017/" alt="Description of the image">
+<img src="https://i.pinimg.com/736x/73/e5/0a/73e50ad3d7e8dfa9947c9218db29823f.jpg" alt="Description of the image">
 
 <p align="center">
    <b>a lil about me</b> 
