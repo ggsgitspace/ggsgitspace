@@ -1,9 +1,11 @@
 <p align="center">
-  <code><ins>hey there fi gg</ins></code>
+  <code><ins>hey there I'm gg</ins></code>
 </p>
 
+<img src="[path/to/your/image.jpg](https://i.pinimg.com/736x/28/ca/8d/28ca8d658eda746b06c86c960906cdd9.jpg)" alt="Description of the image">
+
 <p align="center">
-  ⭐ <b>a lil about me</b> ⭐
+   <b>a lil about me</b> 
 </p>
 
 <p align="center">
