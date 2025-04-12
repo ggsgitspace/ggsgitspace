@@ -16,13 +16,13 @@
 
 <div align="center">
   <a href="https://github.com/ggsgitspace">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggsgitspace&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6&hide_border=true&bg_color=282a36&title_color=f8f8f2&text_color=f8f8f2&icon_color=bd93f9&border_color=44475a" alt="RResabala2015"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggsgitspace&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=282a36&title_color=f8f8f2&text_color=f8f8f2&icon_color=bd93f9&border_color=44475a" alt="RResabala2015"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggsgitspace&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6&hide_border=true&bg_color=0d1117&title_color=f0f8ff&text_color=f0f8ff&icon_color=89bdd3&border_color=6e7681" alt="RResabala2015"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggsgitspace&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f0f8ff&text_color=f0f8ff&icon_color=89bdd3&border_color=6e7681" alt="RResabala2015"/>
   </a>
 </div>
 <p align="center">
   <a href="https://github.com/ggsgitspace">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ggsgitspace&&theme=dark&background=282a36&stroke=44475a&ring=bd93f9&fire=ff79c6&currStreakNum=f8f8f2&currStreakLabel=f8f8f2&sideNums=f8f8f2&sideLabels=f8f8f2" alt="ggsgitspace" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ggsgitspace&&theme=dark&background=0d1117&stroke=6e7681&ring=89bdd3&fire=89bdd3&currStreakNum=f0f8ff&currStreakLabel=f0f8ff&sideNums=f0f8ff&sideLabels=f0f8ff" alt="ggsgitspace" />
   </a>
 </p>
 
@@ -32,27 +32,27 @@
 <table>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-    <td><img height="40" src=""/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=php,java,cs,net,python,laravel,spring,maven,hibernate,nodejs,fastapi,flask,express,nginx,vite"/></td>
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-    <td><img height="40" src=""/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=vue,vuetify,react,mui,bootstrap,html,css,sass,js,ts,figma"/></td>
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-    <td><img height="40" src="h"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,elasticsearch"/></td>
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-    <td><img height="40" src=""/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,terraform,jenkins,githubactions,gitlarun"/></td>
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
-    <td><img height="40" src=""/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=selenium,jest,pytest,phpunit"/></td>
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-    <td><img height="40" src=""/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket"/></td>
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
@@ -67,4 +67,3 @@
     <td><img height="40" src=""/></td>
   </tr>
 </table>
-
