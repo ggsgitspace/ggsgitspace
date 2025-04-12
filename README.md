@@ -1,8 +1,7 @@
 <p align="center">
   <code><ins>hey there I'm gg</ins></code>
 </p>
-
-<img src="https://i.pinimg.com/736x/73/e5/0a/73e50ad3d7e8dfa9947c9218db29823f.jpg" alt="cute sky">
+<p align = center ><img src="[https://i.imgur.com/x6qU1kR.png](https://i.pinimg.com/736x/73/e5/0a/73e50ad3d7e8dfa9947c9218db29823f.jpg)"> </p>
 
 <p align="center">
   <b>a lil about me</b>
