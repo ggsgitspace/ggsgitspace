@@ -2,9 +2,10 @@
   <code><ins>hey there I'm gg</ins></code>
 </p>
 
-<img src="https://i.pinimg.com/736x/73/e5/0a/73e50ad3d7e8dfa9947c9218db29823f.jpg" alt="Description of the image">
+<img src="https://i.pinimg.com/736x/73/e5/0a/73e50ad3d7e8dfa9947c9218db29823f.jpg" alt="cute sky">
 
 <p align="center">
+
   <b>a lil about me</b>
 </p>
 
@@ -20,13 +21,13 @@
 
 <div align="center">
   <a href="https://github.com/ggsgitspace">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RResabala2015&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggsgitspace&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggsgitspace&show_icons=true&locale=en&layout=compact&theme=Minimalist Neutrals" alt="RResabala2015"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggsgitspace&show_icons=true&locale=en&layout=compact&theme=Minimalist Neutrals" alt="RResabala2015"/>
   </a>
 </div>
 <p align="center">
   <a href="https://github.com/ggsgitspace">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ggsgitspace&&theme=cyan" alt="ggsgitspace" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ggsgitspace&&theme=Minimalist Neutrals" alt="ggsgitspace" />
   </a>
 </p>
 
