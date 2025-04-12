@@ -1,5 +1,5 @@
 <p align="center">
-  <code><ins>hey there I'm gg⋆</ins></code>
+  <em><ins style="font-family: "Times New Roman", Times, serif;">hey there I'm gg⋆ </ins></em>
 </p>
 <p align = center ><img src="https://i.pinimg.com/736x/73/e5/0a/73e50ad3d7e8dfa9947c9218db29823f.jpg"> </p>
 
@@ -12,7 +12,12 @@
 - ☆ currently working on **web-development**
 - ★ mostly working on **private repositories** and improving my skills
 - ☆ a **student** willing to learn as much as possible
-----------
+
+
+<p align="center">
+  <img src="https://media.tenor.com/Eo809pAALoYAAAAj/bat.gif" alt="GIF descriptivo">
+</p>
+
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ggsgitspace&bg_color=141414&color=89bdd3&line=89bdd3&point=d3d3d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
