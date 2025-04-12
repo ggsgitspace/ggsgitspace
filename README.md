@@ -1,6 +1,9 @@
 <p align="center">
-  <em><ins style="font-family: "Times New Roman", Times, serif;">hey there I'm gg⋆ </ins></em>
+  <span><em>hey there I'm gg⋆ </em></span>
 </p>
+
+
+
 <p align = center ><img src="https://i.pinimg.com/736x/73/e5/0a/73e50ad3d7e8dfa9947c9218db29823f.jpg"> </p>
 
 <div>
