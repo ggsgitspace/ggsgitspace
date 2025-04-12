@@ -5,7 +5,7 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.pinimg.com/474x/38/ee/16/38ee16be052ee47b9a7a9f305cb80b69.jpg"/>
+<img align="right" width="400" alt="Shimarin" src="https://i.pinimg.com/474x/bf/8e/a3/bf8ea303547203b9e7d645c67fbbbd3b.jpg"/>
 
 <h2> / about me /</h2>
   
