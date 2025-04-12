@@ -5,7 +5,7 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+<img align="right" width="400" alt="Shimarin" src="https://i.pinimg.com/474x/38/ee/16/38ee16be052ee47b9a7a9f305cb80b69.jpg"/>
 
 <h2> / about me /</h2>
   
@@ -14,7 +14,6 @@
 - ☆ a **student** willing to learn as much as possible
 ----------
 
-<h3 align="left">Activity:</h3>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ggsgitspace&bg_color=141414&color=89bdd3&line=89bdd3&point=d3d3d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
