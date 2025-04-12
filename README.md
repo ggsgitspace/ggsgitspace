@@ -17,9 +17,44 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>Skills</b>
   &nbsp;&nbsp;&nbsp;
-  <img src="[Enlace a una imagen]" alt="" width="80">
-  &nbsp;&nbsp;&nbsp;
-  <img src="[Enlace a una imagen]" alt="" width="80">
+<div class="container">
+  <div class="rectangle">
+    <img src="image_url_1.jpg" alt="Image 1">
+  </div>
+  <div class="rectangle">
+    <img src="image_url_2.jpg" alt="Image 2">
+  </div>
+  <div class="rectangle">
+    <img src="image_url_3.jpg" alt="Image 3">
+  </div>
+</div>
+
+<style>
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+  }
+
+  .rectangle {
+    width: 200px;
+    height: 200px;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .rectangle img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+  }
+</style>
 </p>
 
 <p align="center">
