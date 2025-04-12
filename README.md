@@ -16,13 +16,13 @@
 
 <div align="center">
   <a href="https://github.com/ggsgitspace">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggsgitspace&show_icons=true&locale=en&layout=compact&theme=onedark" alt="RResabala2015"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggsgitspace&show_icons=true&locale=en&layout=compact&theme=onedark" alt="RResabala2015"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggsgitspace&show_icons=true&locale=en&layout=compact&theme=dark_dimmed" alt="RResabala2015"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggsgitspace&show_icons=true&locale=en&layout=compact&theme=dark_dimmed" alt="RResabala2015"/>
   </a>
 </div>
 <p align="center">
   <a href="https://github.com/ggsgitspace">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ggsgitspace&&theme=onedark" alt="ggsgitspace" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ggsgitspace&&theme=dark_dimmed" alt="ggsgitspace" />
   </a>
 </p>
 
