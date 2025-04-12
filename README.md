@@ -12,17 +12,17 @@
 
 <h3 align="left">Activity:</h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ggsgitspace&bg_color=141414&color=89bdd3&line=89bdd3&point=d3d3d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ggsgitspace&bg_color=141414&color=a8dadc&line=a8dadc&point=f1faee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <a href="https://github.com/ggsgitspace">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggsgitspace&show_icons=true&locale=en&layout=compact&theme=dark" alt="RResabala2015"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggsgitspace&show_icons=true&locale=en&layout=compact&theme=dark" alt="RResabala2015"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggsgitspace&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggsgitspace&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
   </a>
 </div>
 <p align="center">
   <a href="https://github.com/ggsgitspace">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ggsgitspace&&theme=dark" alt="ggsgitspace" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ggsgitspace&&theme=tokyonight" alt="ggsgitspace" />
   </a>
 </p>
 
