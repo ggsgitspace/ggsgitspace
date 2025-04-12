@@ -15,6 +15,7 @@
 - ☆ currently working on **web-development**
 - ★ mostly working on **private repositories** and improving my skills
 - ☆ a **student** willing to learn as much as possible
+- ★ Currently studying Software Analysis & Development
 
 
 <p align="center">
