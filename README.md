@@ -9,9 +9,9 @@
 
 <h2> / about me /</h2>
   
-- ☆ currently working on **web-development**
-- ★ mostly working on **private repositories** and improving my skills
-- ☆ a **student** willing to learn as much as possible
+☆ currently working on **web-development**
+  ★ mostly working on **private repositories** and improving my skills
+☆ a **student** willing to learn as much as possible
 ----------
 
 
@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="https://github.com/ggsgitspace">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggsgitspace&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6&hide_border=true&bg_color=0d1117&title_color=f0f8ff&text_color=f0f8ff&icon_color=89bdd3&border_color=6e7681" alt="RResabala2015"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggsgitspace&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6&hide_border=true&bg_color=141414&title_color=f0f8ff&text_color=f0f8ff&icon_color=89bdd3&border_color=6e7681" alt="RResabala2015"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggsgitspace&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f0f8ff&text_color=f0f8ff&icon_color=89bdd3&border_color=6e7681" alt="RResabala2015"/>
   </a>
 </div>
