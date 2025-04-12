@@ -16,13 +16,13 @@
 
 <div align="center">
   <a href="https://github.com/ggsgitspace">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggsgitspace&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9&icon_color=89bdd3&border_color=6e7681" alt="RResabala2015"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggsgitspace&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9&icon_color=89bdd3&border_color=6e7681" alt="RResabala2015"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggsgitspace&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=6&hide_border=true&bg_color=282a36&title_color=f8f8f2&text_color=f8f8f2&icon_color=bd93f9&border_color=44475a" alt="RResabala2015"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggsgitspace&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true&bg_color=282a36&title_color=f8f8f2&text_color=f8f8f2&icon_color=bd93f9&border_color=44475a" alt="RResabala2015"/>
   </a>
 </div>
 <p align="center">
   <a href="https://github.com/ggsgitspace">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ggsgitspace&&theme=dark&background=0d1117&stroke=6e7681&ring=89bdd3&fire=89bdd3&currStreakNum=c9d1d9&currStreakLabel=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9" alt="ggsgitspace" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ggsgitspace&&theme=dracula&background=282a36&stroke=44475a&ring=bd93f9&fire=ff79c6&currStreakNum=f8f8f2&currStreakLabel=f8f8f2&sideNums=f8f8f2&sideLabels=f8f8f2" alt="ggsgitspace" />
   </a>
 </p>
 
