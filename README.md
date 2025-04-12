@@ -8,7 +8,7 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src=https://i.pinimg.com/736x/4a/73/81/4a73810e5242b69102995df3326d88bc.jpg>
+<img align="right" width="400" alt="Shimarin" src=https://i.pinimg.com/736x/2b/3c/29/2b3c2928cff1e77bbb94f876f02bed15.jpg>
 
 <h2> / about me /</h2>
   
