@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-    <td><img height="40" src="https://co.pinterest.com/pin/756534437425607722/"/></td>
+    <td><img height="40" src="https://camo.githubusercontent.com/d4e96211f4b2f58f928171921e6d64ff500514537e5be77433229328fc5a0f67/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f64652c70687073746f726d2c65636c697073652c76697375616c73747564696f2c77656273746f726d2c7375626c696d65"/></td>
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
