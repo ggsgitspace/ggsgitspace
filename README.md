@@ -12,7 +12,7 @@
 
 <h2> / about me /</h2>
   
-- ☆ currently working on **web-development**
+- ☆ currently learning **web-development**
 - ★ mostly working on **private repositories** and improving my skills
 - ☆ a **student** willing to learn as much as possible
 - ★ Currently studying Software Analysis & Development
