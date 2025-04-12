@@ -1,12 +1,17 @@
 <p align="center">
-  <code><ins>hey there I'm gg</ins></code>
+  <code><ins>hey there I'm gg⋆</ins></code>
 </p>
 <p align = center ><img src="https://i.pinimg.com/736x/73/e5/0a/73e50ad3d7e8dfa9947c9218db29823f.jpg"> </p>
 
-<p align="center">
-  <b>a lil about me</b>
-</p>
+<div>
 
+<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+
+<h2> / about me /</h2>
+  
+- ☆ currently working on **web-development**
+- ★ mostly working on **private repositories** and improving my skills
+- ☆ a **student** willing to learn as much as possible
 ----------
 
 <h3 align="left">Activity:</h3>
